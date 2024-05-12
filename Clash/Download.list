@@ -25,3 +25,7 @@ URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 PROCESS-NAME,Weiyun.exe
 #Baidu disk
 PROCESS-NAME,baidunetdisk.exe
+# pt
+DOMAIN-KEYWORD,icc2022
+DOMAIN-KEYWORD,okpt
+DOMAIN-KEYWORD,pttime
