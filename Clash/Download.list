@@ -28,4 +28,4 @@ PROCESS-NAME,baidunetdisk.exe
 # pt
 DOMAIN-KEYWORD,icc2022
 DOMAIN-KEYWORD,okpt
-DOMAIN-KEYWORD,pttime
+# DOMAIN-KEYWORD,pttime
