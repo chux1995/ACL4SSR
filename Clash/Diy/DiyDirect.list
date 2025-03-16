@@ -20,3 +20,9 @@ DOMAIN-SUFFIX,wshttpdns.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,weatheroffer.com
 DOMAIN-SUFFIX,www.themoviedb.org
+# pt 站点
+DOMAIN-SUFFIX,icc2022.xyz
+DOMAIN-SUFFIX,icc2022.de
+DOMAIN-SUFFIX,okpt.net
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,cartpt.net
