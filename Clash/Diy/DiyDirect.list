@@ -26,3 +26,13 @@ DOMAIN-SUFFIX,icc2022.de
 DOMAIN-SUFFIX,okpt.net
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,carpt.net
+
+#青萍监控
+DOMAIN-SUFFIX,qing.cleargrass.com
+
+# 九号电动车
+DOMAIN-SUFFIX,ninebot.com
+DOMAIN-SUFFIX,baishan-cloud.net
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,bugsnag.com
+
