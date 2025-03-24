@@ -36,3 +36,8 @@ DOMAIN-SUFFIX,baishan-cloud.net
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,bugsnag.com
 
+# 国内bing
+DOMAIN-SUFFIX,cn.bing.com
+
+
+
