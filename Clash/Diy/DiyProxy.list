@@ -55,12 +55,15 @@ DOMAIN-SUFFIX,lgtvcommon.com
 
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,azurefd.net
 
 DOMAIN-SUFFIX,steaminventoryhelper.com
 DOMAIN-SUFFIX,adblockplus.org
+
+DOMAIN-SUFFIX,split.io
 
 
 
