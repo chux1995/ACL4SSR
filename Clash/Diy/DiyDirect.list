@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,bugsnag.com
 
 # 国内bing
 DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,signalr.net
 
 # leigod
 DOMAIN-SUFFIX,xxghh.biz
