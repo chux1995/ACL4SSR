@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,akamaiedge.net
-DOMAIN-SUFFIX,ax-msedge.net
+DOMAIN-KEYWORD,msedge
 
 # leigod
 DOMAIN-SUFFIX,xxghh.biz
@@ -68,3 +68,6 @@ DOMAIN-SUFFIX,overwolf.com
 
 # pdd
 DOMAIN-SUFFIX,parkingcrew.net
+
+DOMAIN-SUFFIX,linux.do
+
