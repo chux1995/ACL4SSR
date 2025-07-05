@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,wnacg.org
 DOMAIN-SUFFIX,tradingview.com
-DOMAIN-KEYWORD,muniu
+
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,jquery.com
@@ -74,6 +74,6 @@ DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,sub.d1.mk
 DOMAIN-SUFFIX,api.opensubtitles.com
 
-
-
-
+# muniu代理
+DOMAIN-KEYWORD,muniu
+IP-CIDR,45.137.181.226/32,no-resolve
