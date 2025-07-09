@@ -77,3 +77,5 @@ DOMAIN-SUFFIX,api.opensubtitles.com
 # muniu代理
 DOMAIN-KEYWORD,muniu
 IP-CIDR,45.137.181.226/32,no-resolve
+
+DOMAIN-SUFFIX,gwdang.com
