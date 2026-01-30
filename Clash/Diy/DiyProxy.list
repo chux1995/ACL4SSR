@@ -79,3 +79,9 @@ DOMAIN-KEYWORD,muniu
 IP-CIDR,45.137.181.226/32,no-resolve
 
 DOMAIN-SUFFIX,gwdang.com
+
+# github
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.com
+
