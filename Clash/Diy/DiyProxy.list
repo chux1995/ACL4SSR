@@ -11,7 +11,10 @@ DOMAIN-SUFFIX,miobt.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,infuse.im
-DOMAIN-SUFFIX,ipleak.net
+
+# dns泄露检测
+# DOMAIN-SUFFIX,ipleak.net
+
 DOMAIN-SUFFIX,dynu.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,proton.me
