@@ -94,3 +94,4 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,doh.opendns.com
 
+DOMAIN-SUFFIX,linux.do
