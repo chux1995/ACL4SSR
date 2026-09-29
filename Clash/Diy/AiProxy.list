@@ -1,4 +1,5 @@
 # MyList && Other
-DOMAIN-SUFFIX,cloudflare.com
+# DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,ip.cx
 DOMAIN-SUFFIX,ipcheck.ing
+DOMAIN-SUFFIX,ipify.org
