@@ -89,9 +89,6 @@ DOMAIN-SUFFIX,github.com
 
 DOMAIN-SUFFIX,content-autofill.googleapis.com
 
-# dns规则
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,doh.opendns.com
+
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,updf.com

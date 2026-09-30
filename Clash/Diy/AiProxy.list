@@ -1,5 +1,10 @@
-# MyList && Other
-# DOMAIN-SUFFIX,cloudflare.com
+# 检测
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,ip.cx
 DOMAIN-SUFFIX,ipcheck.ing
 DOMAIN-SUFFIX,ipify.org
+
+# dns规则
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,doh.opendns.com
