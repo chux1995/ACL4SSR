@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,ip.cx
 DOMAIN-SUFFIX,ipcheck.ing
 DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ippure.com
 
 # dns规则
 DOMAIN-SUFFIX,cloudflare-dns.com
